@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.zip
+Data/
+app/Data/
+SelfTest/
+app/SelfTest/
+test-results/
+.env
+.env.*
+*.key
+*.pem
+*.log

@@ -1,0 +1,14 @@
+{
+  "program": "为i发电 · CHI 备份",
+  "version": "0.1-preview",
+  "technique": "CP",
+  "origin": "模拟数据，未连接仪器",
+  "created": "2026-09-30T11:34:55.652359",
+  "source_key": "synthetic-15",
+  "data_columns": [
+    "Index",
+    "Time(s)",
+    "Potential(V)"
+  ],
+  "note": "TXT仅包含实际记录的时间和测量值；未推算另一电学量或电荷。"
+}

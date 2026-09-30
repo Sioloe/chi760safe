@@ -1,0 +1,25 @@
+{
+  "version": "0.1-preview",
+  "offline_tests": {
+    "passed": true,
+    "count": 16,
+    "frozen_executable": true
+  },
+  "CA_native_sample": {
+    "points": 500,
+    "current_values_bit_exact": true
+  },
+  "CP_native_sample": "pending",
+  "i_t_native_sample": "pending",
+  "instrument_acquisition_tested": false,
+  "power_failure_tested": false,
+  "desktop_window_verification": {
+    "passed": true,
+    "window_title": "为i发电 · CHI 实时备份",
+    "size": [
+      900,
+      690
+    ],
+    "scope": "packaged executable UI construction; no instrument acquisition"
+  }
+}
