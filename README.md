@@ -2,9 +2,11 @@
 
 **0.1 验证版，Windows 10/11 x64。** 在原 CHI760E 中设置参数、开始实验并查看曲线，本程序只读已采集的数据，按另一频率写入 TXT。
 
-[下载 Windows 便携包](https://github.com/Sioloe/chi760safe/releases/tag/v0.1.0-preview.1) · [完整使用说明](docs/使用说明.txt)
+[版本发布页](https://github.com/Sioloe/chi760safe/releases) · [完整使用说明](docs/使用说明.txt)
 
-## 使用
+源码、说明和模拟样例已发布。Windows 便携包尚待上传，发布草稿已保存；当前可按下方“源码与构建”运行或构建。
+
+## 便携包使用方式
 
 1. 完整解压下载包，保留 `_internal` 文件夹，无需另装 Python。
 2. 打开原来的 `chi760e.exe`，再运行 `CHIBackup.exe`。
